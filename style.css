@@ -143,6 +143,9 @@ body {
     gap: 15px;
   }
   
+  .hero xxx{
+  }
+  
   .hero h1 {
     font-size: 1.8rem;
   }
@@ -156,4 +159,3 @@ body {
     font-size: 0.9rem;
   }
 }
-xxx
